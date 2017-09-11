@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<dimen name="fab_size">56dp</dimen>
+	<dimen name="fab_radius">28dp</dimen>
+	<dimen name="fab_padding">10dp</dimen>
+	<dimen name="fab_offset">10dp</dimen>
+
+	<dimen name="fab_item_size">40dp</dimen>
+	<dimen name="fab_item_radius">20dp</dimen>
+
+
+</resources>

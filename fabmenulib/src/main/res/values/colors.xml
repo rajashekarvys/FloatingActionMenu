@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fab_bakcground">#0089ea</color>
+    <color name="fab_item_background">#00bed7</color>
+    <color name="background">#d31a1a1a</color>
+    <color name="text_color">#464646</color>
+
+</resources>
