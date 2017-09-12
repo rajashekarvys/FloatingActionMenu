@@ -155,8 +155,6 @@ public class FloatingMenuLib extends RelativeLayout {
                 textView.setTextColor(imagesPojos.get(i).getItemTextColor());
             }
 
-
-
             img.setImageResource(imagesPojos.get(i).getDrawable());
             addRules(view, i);
         }
@@ -276,13 +274,6 @@ public class FloatingMenuLib extends RelativeLayout {
     * set background color @param int color code
     * */
     public void setBackgroundScreenColor(int color) {
-        mBackGroundScreen.setBackgroundColor(color);
-    }
-
-    /*
-    * set background color @param int color code
-    * */
-    public void setMenuItemTextColor(int color) {
         mBackGroundScreen.setBackgroundColor(color);
     }
 
