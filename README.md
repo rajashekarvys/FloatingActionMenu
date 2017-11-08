@@ -1,9 +1,10 @@
 # FloatingActionMenu
 
 ![Alt text](https://github.com/rajashekarvys/FloatingActionMenu/tree/master/sampleImages/GIF_1510119671120.gif)
-![Alt text](https://github.com/rajashekarvys/FloatingActionMenu/tree/master/sampleImages/Screenshot_floatingactionmenu.png)
+![Screenshot](https://github.com/rajashekarvys/FloatingActionMenu/tree/master/sampleImages/Screenshot_floatingactionmenu.png)
 
 ##Installation
+
 Grab the AAR from Maven Central by adding it as a dependency in your build.gradle file:
 
 ```
@@ -24,6 +25,7 @@ allprojects {
 ```
 
 ##Usage
+
 Declare Folating action menu in xml or create it in code
 
 ```
