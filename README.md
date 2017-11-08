@@ -1,7 +1,7 @@
 # FloatingActionMenu
 
-![Alt text](https://github.com/rajashekarvys/FloatingActionMenu/tree/master/sampleImages/GIF_1510119671120.gif?raw=true "Optional Title")
-![Alt text](https://github.com/rajashekarvys/FloatingActionMenu/tree/master/sampleImages/Screenshot_floatingactionmenu.png?raw=true "Optional Title")
+![Alt text](https://github.com/rajashekarvys/FloatingActionMenu/tree/master/sampleImages/GIF_1510119671120.gif)
+![Alt text](https://github.com/rajashekarvys/FloatingActionMenu/tree/master/sampleImages/Screenshot_floatingactionmenu.png)
 
 ##Installation
 Grab the AAR from Maven Central by adding it as a dependency in your build.gradle file:
